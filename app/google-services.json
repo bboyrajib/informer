@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "497936566437",
+    "firebase_url": "https://informer-f8fcc.firebaseio.com",
+    "project_id": "informer-f8fcc",
+    "storage_bucket": "informer-f8fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497936566437:android:182d1d4db45174b7",
+        "android_client_info": {
+          "package_name": "com.example.bboyrajib.informer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497936566437-s8se8vm82bddf5jaj0s3gr5infp7tmv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuJnNb0_tIeuZN_Uq2w3tFS67sL5TFuDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
